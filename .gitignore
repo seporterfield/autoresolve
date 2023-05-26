@@ -1,5 +1,4 @@
 /.env
-/.streamlit
 /.venv
-/contract.txt
-/playground.ipynb
+.mypy_cache
+.ruff_cache
